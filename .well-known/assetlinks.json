@@ -4,7 +4,7 @@
 		"target": {
 			"namespace":"android_demo",
 			"package_name":"com.example.android_demo",
-			"sha256_cert_finderprints": [""]
+			"sha256_cert_finderprints": ["57153f814929aa9f86b62f29f2c6dcc1c39d0633f14e14cd288f32b0147f61bc"]
 		}
 	}
 ]
